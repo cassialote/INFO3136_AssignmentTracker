@@ -1,0 +1,2 @@
+rootProject.name = "AssigntmentTrackerV2"
+include ':app'

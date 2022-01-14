@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">AssignmentTracker</string>
+    <string name="btnAll">View All</string>
+    <string name="btnCompleted">View Completed</string>
+    <string name="checkBoxDone">Done</string>
+
+
+    <string name="courseTitle">Course</string>
+    <string name="courseText">Course Code</string>
+    <string name="descriptionTitle">Assignment</string>
+    <string name="descriptionText">Description</string>
+    <string name="dueTimeTitle">Time</string>
+    <string name="dueDateTitle">Due Date</string>
+    <string name="addAssignmentTitle">Add a New Assignment</string>
+
+    <string name="priorityTitle">Priority</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+
+    <string name="addBtn">Add</string>
+    <string name="editBtn">Edit</string>
+    <string name="deleteBtn">Delete</string>
+
+
+    <string name="todayTitle">Today</string>
+    <string name="thisWeekTitle">This Week</string>
+    <string name="ok">Ok</string>
+    <string name="markAsDone">Mark As Done</string>
+    <string name="btnSave">Save</string>
+    <string name="addDetailsTitle">Add Assignment Details</string>
+    <string name="editDetailsTitle">Edit Assignment Details</string>
+    <string name="assignmentTitle">Assignments</string>
+    <string name="btnSettings">Settings</string>
+    <string name="titleSpinnerView">View</string>
+    <string name="courseCode">Code</string>
+
+    <string-array name="filterSpinnerViewOptions">
+        <item>incomplete</item>
+        <item>complete</item>
+    </string-array>
+
+    //months
+    <string name="jan">January</string>
+    <string name="feb">February</string>
+    <string name="mar">March</string>
+    <string name="apr">April</string>
+    <string name="may">May</string>
+    <string name="jun">June</string>
+    <string name="jul">July</string>
+    <string name="aug">August</string>
+    <string name="sep">September</string>
+    <string name="oct">October</string>
+    <string name="nov">November</string>
+    <string name="dec">December</string>
+    <string name="filterBy">Filter by:</string>
+
+
+    <string name="due">Due: </string>
+    <string name="completed">Completed: </string>
+
+</resources>
